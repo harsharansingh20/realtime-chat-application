@@ -1,0 +1,60 @@
+#photo{
+    width:196px;
+    height: 185px;
+    display: block;
+    margin: auto;
+    border-radius: 159px;
+    margin-top: 20px;
+}
+
+body{
+    background-image: linear-gradient(rgb(91, 231, 91),rgb(22, 13, 13))
+}
+
+.container{
+    max-width: 955px;
+    /* background-color: aquamarine; */
+    background-image: linear-gradient(rgb(91, 231, 91),rgb(22, 13, 13)); 
+    margin: auto;
+    height: 63vh;
+    margin-top: 30px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+    padding: 33px;
+    margin-bottom: -1rem;
+}
+
+.message{
+background-color: bisque;
+width: 24%;
+padding: 10px;
+margin: 17px 12px;
+border: 2px solid red;
+border-radius: 2px;
+
+}
+
+.left{
+float: left;
+clear: both;
+}
+
+.right{
+float: right;
+clear: both;
+}
+
+.mb-3{
+    width: 63%;
+    display: block;
+    margin: auto;
+}
+
+.btn-primary{
+    display: block;
+    margin: auto;
+}
+
+#haha{
+margin-bottom: 30px;
+}
